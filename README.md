@@ -14,12 +14,14 @@
 
   Whether you're here to explore useful code, pick up something new, or dive into data insights, you’re in the right place! 😎
 
- Let's Connect! 🌍🔗
+
+  Let's Connect! 🌍🔗
  
 
-<a href="https://github.com/Piyush-tikiya)" target="_blank">
+<a href="https://github.com/Piyush-tikiya" target="_blank">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Profile" width="50">
 </a>
+
 
 <a href="https://www.linkedin.com/in/piyushtikiya07" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Profile" width="50">
