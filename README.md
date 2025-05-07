@@ -16,20 +16,13 @@
 
  Let's Connect! 🌍🔗
  
- Stay in touch and follow my journey:
 
- Twitter: @YourHandle
-
- LinkedIn: Your Name
-
- GitHub: The-Piyush-Tikiya
-
- Email: PiyushTikiya29@gmail.com
-
-I love collaborating, sharing ideas, and building cool stuff together. Let's chat! 💬✨
-
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<a href="https://github.com/Piyush-tikiya)" target="_blank">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Profile" width="50">
+</a>
+
+<a href="https://www.linkedin.com/in/piyushtikiya07" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Profile" width="50">
 </a>
 
 
