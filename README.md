@@ -3,6 +3,7 @@
 👋 Hey there, great to see you here!
 
 Welcome to my GitHub space!
+
 I’m passionate about data analysis, uncovering insights, and making work life more data-driven. Here, you'll find:
 
 🛠️ Projects I’m working on or contributing to
