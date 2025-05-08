@@ -23,8 +23,9 @@ You bring the curiosity, I'll bring the insights! 📊💡
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width:40px; height:40px;">
 </a>
 <a href="https://www.linkedin.com/in/piyushtikiya07" target="_blank">
-    <img src="/mnt/data/8859a0c3-6923-465f-a3a6-01ec7b7aff51.png" alt="LinkedIn" style="width:40px; height:40px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width:40px; height:40px; filter: invert(1);">
 </a>
+
 
 
 
