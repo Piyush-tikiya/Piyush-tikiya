@@ -1,7 +1,7 @@
 # 👋 Hey there, I’m so glad you’re here!
 
 <a href="https://playground.example.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5996/5996293.png" alt="Playground" style="width:40px; height:40px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/5996/5996293.png" alt="Playground" style="width:20px; height:20px;">
 </a>
 
 Welcome to my code Playground !
