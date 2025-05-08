@@ -1,40 +1,52 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Hey there, I’m so glad you’re here!
 
-###
+Welcome to my code Playground !
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+I am an aspiring data analyst who loves to play around with data to extract useful insights, enhancing both user experience and business outcomes. Here, you'll find:
 
-###
+* 🛠️ Projects I’m building or contributing to
+* 📊 Data analysis techniques and visualizations
+* 💡 Tips and tricks to optimize data-driven decision-making
 
-<h2 align="left">About me</h2>
+Whether you're here to explore insightful code, learn new techniques, or see how data can make an impact, you’re in the right place! 🚀
 
-###
+Let's connect, learn, and grow together—one data story at a time.
+You bring the curiosity, I'll bring the insights! 📊💡
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+## 🌐 Socials:
+<a href="mailto:piyushtikiya07@example.com">
+    <img src="image_url" alt="Clickable Image" style="width:200px; height:auto;">
+</a>
 
-###
 
-<h2 align="left">I code with</h2>
 
-###
+## 💻 Tech Stack:
+![image](https://github.com/user-attachments/assets/a2c3556e-4f27-4de1-afe6-45d8fdeed048)
+![image](https://github.com/user-attachments/assets/61cf17b9-0306-487a-932a-5d6646a65643)
+![image](https://github.com/user-attachments/assets/f19b113a-dd13-4384-8120-0886898cdd9e)
+![image](https://github.com/user-attachments/assets/c9bc8639-19d4-47dc-9ab3-62c66f6f9c13)
+![image](https://github.com/user-attachments/assets/7cfd23e7-dc78-4020-a145-3ad6ef2efd5b)
 
-<div align="left">
-  ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?logo=google-sheets&logoColor=white)
 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
 
-###
+
+
+
+
+
+
+\\
+
+## 🌟 Featured Projects:
+
+* 📈 Data Analytics Dashboards using **Power BI**
+* 💾 Data Cleaning and Transformation using **SQL**
+* 📊 Interactive Reports in **Excel**
+* 🎨 Creative Visuals and Infographics using **Canva**
+
+## 🎉 Fun Fact:
+
+I believe that data has the power to tell stories and make smarter business decisions!
+
+Provide all this code to paste in github edit mode
+
