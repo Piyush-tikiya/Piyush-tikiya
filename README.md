@@ -13,11 +13,8 @@ Whether you're here to explore insightful code, learn new techniques, or see how
 Let's connect, learn, and grow together—one data story at a time.
 You bring the curiosity, I'll bring the insights! 📊💡
 
-## 🌐 Socials:
-<a href="mailto:piyushtikiya07@example.com">
-    <img src="image_url" alt="Clickable Image" style="width:200px; height:auto;">
-</a>
-
+🌐 Socials:
+ LinkedIn 
 
 
 ## 💻 Tech Stack:
