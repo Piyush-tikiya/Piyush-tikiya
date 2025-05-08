@@ -14,7 +14,11 @@ Let's connect, learn, and grow together—one data story at a time.
 You bring the curiosity, I'll bring the insights! 📊💡
 
 🌐 Socials:
- LinkedIn 
+
+<a href="https://github.com/piyushtikiya07" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width:40px; height:40px;">
+</a>
+
 
 
 ## 💻 Tech Stack:
