@@ -31,12 +31,6 @@ You bring the curiosity, I'll bring the insights! 📊💡
 
 
 
-
-
-
-
-\\
-
 ## 🌟 Featured Projects:
 
 * 📈 Data Analytics Dashboards using **Power BI**
@@ -48,5 +42,5 @@ You bring the curiosity, I'll bring the insights! 📊💡
 
 I believe that data has the power to tell stories and make smarter business decisions!
 
-Provide all this code to paste in github edit mode
+
 
