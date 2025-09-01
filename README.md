@@ -2,7 +2,7 @@
 
 Welcome to my code Playground !
 
-I am an aspiring data analyst who loves to play around with data to extract useful insights, enhancing both user experience and business outcomes. Here, you'll find:
+I am  data analyst who loves to play around with data to extract useful insights, enhancing both user experience and business outcomes. Here, you'll find:
 
 * 🛠️ Projects I’m building or contributing to
 * 📊 Data analysis techniques and visualizations
