@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" alt="Business Decision Banner" width="100%">
+  <img src="https://github.com/Piyush-tikiya/Piyush-tikiya/raw/main/data.jpg" alt="Business Decision Banner" width="100%">
 </p>
 
 
