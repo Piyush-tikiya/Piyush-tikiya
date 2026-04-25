@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="YOUR_IMAGE_LINK_HERE" alt="Business Decision Banner" width="100%">
+</p>
+
+
 # ***👋 Hey there, I’m so glad you’re here!***
 ```
 Welcome to my code Playground !
