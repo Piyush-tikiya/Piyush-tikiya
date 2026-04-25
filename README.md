@@ -1,5 +1,5 @@
-# 👋 Hey there, I’m so glad you’re here!
-
+# ***👋 Hey there, I’m so glad you’re here!***
+```
 Welcome to my code Playground !
 
 I am  data analyst who loves to play around with data to extract useful insights, enhancing both user experience and business outcomes. Here, you'll find:
@@ -12,11 +12,15 @@ Whether you're here to explore insightful code, learn new techniques, or see how
 
 Let's connect, learn, and grow together—one data story at a time.
 You bring the curiosity, I'll bring the insights! 📊💡
-
-🌐 Socials:
+```
+## ***🌐 Socials:***
 
 <a href="https://www.linkedin.com/in/piyushtikiya07" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width:40px; height:40px;">
+</a><br/>
+
+<a href="mailto:yourgmail@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" style="width:40px; height:40px;">
 </a>
 
 
@@ -27,24 +31,35 @@ You bring the curiosity, I'll bring the insights! 📊💡
 
 
 
-## 💻 Tech Stack:
-![image](https://github.com/user-attachments/assets/a2c3556e-4f27-4de1-afe6-45d8fdeed048)
-![image](https://github.com/user-attachments/assets/61cf17b9-0306-487a-932a-5d6646a65643)
-![image](https://github.com/user-attachments/assets/f19b113a-dd13-4384-8120-0886898cdd9e)
-![image](https://github.com/user-attachments/assets/c9bc8639-19d4-47dc-9ab3-62c66f6f9c13)
-![image](https://github.com/user-attachments/assets/7cfd23e7-dc78-4020-a145-3ad6ef2efd5b)
+## ***💻 Tech Stack:***
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-20232A?style=for-the-badge&logo=python&logoColor=white)
 
 
 
+## ***🌟Featured Projects:***
+```
+⚡ Built Automated Data Cleaning Pipeline using Python + Pandas, saving 2 hours of manual work daily and scheduled fixed-time execution using Task Scheduler
+🌐 Web Scraping Projects using Python, BeautifulSoup, Requests, and Data Extraction Automation
+📈 Data Analytics Dashboards using Power BI  
+💾 Data Cleaning and Transformation using SQL  
+📊 Interactive Reports in Excel  
 
-
-## 🌟 Featured Projects:
-
-* 📈 Data Analytics Dashboards using **Power BI**
-* 💾 Data Cleaning and Transformation using **SQL**
-* 📊 Interactive Reports in **Excel**
-* 🎨 Creative Visuals and Infographics using **Canva**
-
+```
 ## 🎉 Fun Fact:
 
 I believe that data has the power to tell stories and make smarter business decisions!
